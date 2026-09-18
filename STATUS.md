@@ -1,6 +1,6 @@
 # Status do Dashboard — SE Medeiros Neto II
 
-> Gerado automaticamente por `scripts/update_status.py` em **18/09/2026 13:53** (a cada execução do `Atualizar Dashboard.bat`).
+> Gerado automaticamente por `scripts/update_status.py` em **18/09/2026 13:55** (a cada execução do `Atualizar Dashboard.bat`).
 > Só totais agregados — nenhum dado individual de funcionário é versionado neste repositório.
 
 ## Resumo
