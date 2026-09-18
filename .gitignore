@@ -1,0 +1,18 @@
+# Dados da folha (nomes, salários) — NUNCA versionar
+*.xlsx
+*.xls
+*.csv
+*.zip
+scratch_data.json
+Base de dados/
+Exemplos de lançamentos/
+
+# Saídas geradas (têm os dados da folha embutidos no HTML)
+Dashboard Horas - Medeiros.html
+Dashboard BI - Medeiros.html
+*.html
+
+# Python / ferramentas locais
+__pycache__/
+*.pyc
+.claude/
